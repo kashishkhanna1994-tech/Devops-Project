@@ -2,7 +2,7 @@
 
 An end-to-end DevOps capstone project demonstrating automated testing, containerization, CI/CD automation, infrastructure as code, Kubernetes deployment, monitoring, security, and recovery planning.
 
-**Repository:** [Ayushgautam2007/Devops-Project](https://github.com/Ayushgautam2007/Devops-Project)  
+**Repository:** [kashishkhanna1994-tech/Devops-Project](https://github.com/kashishkhanna1994-tech/Devops-Project)  
 **AWS Region:** `ap-south-1` (Mumbai)  
 **Application:** Flask REST API  
 **Container Registry:** Amazon ECR  
